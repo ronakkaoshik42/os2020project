@@ -36,6 +36,8 @@ We have build a Process Scheduling Visulizer GUI program using Qt designer invol
 
 ![Code Structure](/images/code_structure.jpg)
 
+## Simulator
+
 ![FPPS implemetation](/images/demo1.png)
 
 
