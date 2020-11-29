@@ -34,9 +34,9 @@ We have build a Process Scheduling Visulizer GUI program using Qt designer invol
 
 ## Code Structure
 
-![Code Structure](/images/code_structure.jpg)
+![Code Structure](/images/code_structure.jpg){:height="50%" width="50%"}
 
-![FPPS implemetation](/images/demo1.png)
+![FPPS implemetation](/images/demo1.png){:height="50%" width="50%"}
 
 
 
