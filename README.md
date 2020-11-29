@@ -1,6 +1,12 @@
 # Process Scheduling Visualizer
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This is a course project for the course CS 301 : Operating Systems at IIT Gandhinagar, India.
+
+Team Members: Ronak Kaoshik, Ribhu Vajpeyi, Shweta Pardeshi, Utsav Jethva, Deepika Soni
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 We have build a Process Scheduling Visulizer GUI program using Qt designer involving four scheduling algorithms namely Shortest Remaining Time First (SRTF), Round-robin (RR), First Come First Serve (FCFS), Fixed Priority Preemptive Scheduling (FPPS - also Work Conserving).
 
