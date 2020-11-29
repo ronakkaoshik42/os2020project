@@ -10,21 +10,21 @@ We have build a Process Scheduling Visulizer GUI program using Qt designer invol
 
 ## 2. Shortest Remaining Time First (Preemptive):  
    a.The processor is allocated to the job closest to completion  
-   \nb.Preemptive scheduling is used when a process switches from running state to ready state or from waiting state to ready state  
+   b.Preemptive scheduling is used when a process switches from running state to ready state or from waiting state to ready state  
 
 ## 3. Fixed Priority Preemptive Scheduling:
    a.The highest priority task is  performed first ignoring the other task to be executed  
-   \nb.Sorted FIFO queue is used for this strategy  
+   b.Sorted FIFO queue is used for this strategy  
 
 ## 4. Round Robin Scheduling:
    a.Each process is assigned a fixed time slot in a cyclic way  
-   \nb.Starvation-free as all processes get fair share of CPU  
-   \nc.The disadvantage of it is more overhead of context switching  
+   b.Starvation-free as all processes get fair share of CPU  
+   c.The disadvantage of it is more overhead of context switching  
 
 ## 5. Work Conserving Scheduling:
    a.Always try to keep resource (CPU) busy  
-   \nb.CPU Utilisation is nearly 100%  
-   \nc.Any algorithm can be formatted as work conserving algorithm  
+   b.CPU Utilisation is nearly 100%  
+   c.Any algorithm can be formatted as work conserving algorithm  
 
 
 
