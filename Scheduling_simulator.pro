@@ -1,6 +1,7 @@
 #-------------------------------------------------
 #
-# CS301 CPU scheduling project
+# CS301: Operating Systems Course, IIT Gandhinagar, India
+# Process Scheduling Visualizer
 #
 #-------------------------------------------------
 
