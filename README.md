@@ -52,6 +52,9 @@ Turn Around Time, Response Time, Waiting Time (for each process)
 
 ![Code Structure](/images/code_structure.jpg)
 
+## Working
+One can input data manually or use a CSV file (format: arrival time - cpu cycles - io cycles - priority). The code has been written in such a way that it will generate a warning if the CSV file is of an incompatible format.
+
 ## Simulator
 
 ![FPPS implemetation](/images/demo1.png)
