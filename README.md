@@ -64,7 +64,7 @@ One can input data manually or use a CSV file (format: arrival time - cpu cycles
 a. To expand and incorporate more scheduling algorithms
 b. Improving the GUI
 
-We would like to thank Prof Nipun Batra and our TA Tom Glint Issac who helped us and mentored us whenever we were stuck in the project.
+We would like to thank Prof Nipun Batra and our TA Tom Glint Issac who helped and mentored us throughout.
 
 
 
